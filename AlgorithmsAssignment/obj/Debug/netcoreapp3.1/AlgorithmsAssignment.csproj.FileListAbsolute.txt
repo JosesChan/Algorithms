@@ -1,0 +1,37 @@
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.exe
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.deps.json
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.runtimeconfig.json
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.runtimeconfig.dev.json
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.dll
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.pdb
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.csprojAssemblyReference.cache
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.AssemblyInfoInputs.cache
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.AssemblyInfo.cs
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.dll
+C:\Users\computing\OneDrive - University of Lincoln\University Work\Programming Assessment\Year 1 - Algorithms\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.pdb
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.exe
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.deps.json
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.runtimeconfig.json
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.runtimeconfig.dev.json
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.dll
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.pdb
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.csprojAssemblyReference.cache
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.AssemblyInfoInputs.cache
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.AssemblyInfo.cs
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.dll
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.pdb
+C:\Users\Joses\Downloads\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.genruntimeconfig.cache
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.exe
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.deps.json
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.runtimeconfig.json
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.runtimeconfig.dev.json
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.dll
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\bin\Debug\netcoreapp3.1\AlgorithmsAssignment.pdb
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.csprojAssemblyReference.cache
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.AssemblyInfoInputs.cache
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.AssemblyInfo.cs
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.dll
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.pdb
+C:\Users\Joses\Downloads\Year-1---Algorithms-master\Year-1---Algorithms-master\AlgorithmsAssignment\obj\Debug\netcoreapp3.1\AlgorithmsAssignment.genruntimeconfig.cache
